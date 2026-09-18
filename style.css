@@ -1,0 +1,15 @@
+h1{
+	color:blue;
+	font-family:jokerman;
+	font-size:50px;
+	background-color:red;
+}
+
+p{
+	background-color:pink;
+	text-align:center;
+	font-family:jokerman;
+	text-shadow:2px 2px 5px;
+	text-decoration:underline red 2px;
+}
+	
